@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+More details on my <a href="https://github.com/joshedwbit">personal Github account</a>
+
 ## Numbers
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshd3r&theme=jolly)](https://git.io/streak-stats)
