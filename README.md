@@ -2,7 +2,7 @@
 
 ## Numbers
 
-(https://streak-stats.demolab.com/?user=joshd3r&theme=jolly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joshd3r&theme=jolly)](https://git.io/streak-stats)
 
 <!--
 **joshd3r/joshd3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
