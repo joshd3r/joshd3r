@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Numbers
+
+| Stats | Streaks |
+|----------|----------|
+| [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshd3r&show_icons=true&count_private=true&theme=jolly)](https://github.com/joshd3r)    | [![GitHub Streak](https://streak-stats.demolab.com/?user=joshd3r&theme=jolly)](https://git.io/streak-stats)    |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshd3r&layout=compact&theme=jolly&count_private=true)](https://github.com/joshd3r)
+
 <!--
 **joshd3r/joshd3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
